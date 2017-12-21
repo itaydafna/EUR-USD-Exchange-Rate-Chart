@@ -9,7 +9,7 @@ To run the app locally:
 
 The application will serve on  [http://localhost:3000](http://localhost:3000)
 
-A **live demo** of the application, deployed with [Heroku](https://www.heroku.com/) can be found on this [**link**](https://eur-usd-exchange-rate-chart.herokuapp.com).
+A [**live demo**](https://eur-usd-exchange-rate-chart.herokuapp.com) of the application, deployed with [Heroku](https://www.heroku.com/) can be found on this [**link**](https://eur-usd-exchange-rate-chart.herokuapp.com).
 
 
 ## A few Notes:
